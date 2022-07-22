@@ -1,0 +1,14 @@
+body{
+    margin:0%;
+    padding:0%;
+    background-color: black;
+}
+
+.container{
+    display: block;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color:gold;
+    font-weight: bolder;
+    font-size: 70px;
+}
