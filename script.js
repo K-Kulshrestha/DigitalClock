@@ -21,3 +21,7 @@ function displayTime(){
 }
 
 setInterval(displayTime, 10);
+
+function showCredits(){
+        document.getElementById("credits").innerHTML = ("Background credit : http://www.textures4photoshop.com/");
+        }
